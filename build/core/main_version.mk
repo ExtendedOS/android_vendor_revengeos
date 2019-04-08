@@ -1,7 +1,7 @@
 # Version of the ROM
 aosep_CODENAME := stable
 aosep_REVISION := 2.0
-CAF_REVISION := LA.UM.7.3.r1-06900-sdm845.0
+CAF_REVISION := LA.UM.7.3.r1-06900-sdm845.0 security patch level-April 5 2019
 
 ifndef REVENGEOS_BUILDTYPE
   REVENGEOS_BUILDTYPE := UNOFFICIAL
